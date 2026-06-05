@@ -2,8 +2,8 @@
 
 <H1 ALIGN=CENTER> Experiment-3: Implementation of Approximate Inference in Bayesian Networks </H1>
 
-### Name: 
-### Register Number:
+### Name: Balaji SK
+### Register Number: 2305003001
 
 ## Aim: 
    To construct a python program to implement approximate inference using Gibbs Sampling.
@@ -133,6 +133,21 @@ print(query_result)
 ```
 ---
 ## Output:
+
+```
+Bayesian Network Structure
+DiscreteBayesianNetwork with 5 nodes and 4 edges
+```
+
+<img width="660" height="522" alt="image" src="https://github.com/user-attachments/assets/93efea3c-7ad8-40db-baef-cab5161f0bc2" />
+
+```
+Approximate probabilities of Burglary:
+Burglary
+0    0.9992
+1    0.0008
+Name: proportion, dtype: float64
+```
 
 
 ---
